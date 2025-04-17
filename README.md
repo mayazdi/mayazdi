@@ -2,9 +2,9 @@
 
 I'm MohammadAmin Yazdi
 
-Born: 1999
+BA: Computer Engineering @ Shahid Beheshti University
 
-BA: Computer Engineering @ Shahid Beheshti University (SBU)
+MA: MBA @ Sharif University of Technology
 
 Among programming languages I love `Python` the most. And also I know C++, Java, Lua, etc.
 
